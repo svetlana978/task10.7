@@ -1,0 +1,31 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.card-footer,
+.card-header {
+    background-color: rgba(153, 194, 255, 0.527);
+    border: solid rgba(149, 142, 255, 0.39);
+}
+
+#btnRetry {
+    color: black;
+    font-weight: 600;
+}
+
+.card-body {
+    background-color: rgba(224, 205, 255, 0.548);
+}
+
+#btnEqual {
+    background-color: rgb(255, 117, 117);
+}
+
+.btn-group {
+    border: cyan;
+}
+
+.btn-info {
+    background-color: rgba(95, 95, 255, 0.589);
+}
